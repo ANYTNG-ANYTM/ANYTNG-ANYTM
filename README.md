@@ -9,7 +9,7 @@ I'm a Full stack developer with an avid interest in AI/ML and Data Science .
 I also like to study Quantitative Finance in my free time.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [yashsngh2501@gmail.com](mailto:yashsngh2501@gmail.com)
+* ✉️  You can contact me at [loading.syntax@gmail.com](mailto:loading.syntax@gmail.com)
 * 🧠  I'm currently learning machine learning and AI development frameworks, alongside quantitative finance
 * 👥  I'm looking to collaborate on Interesting Projects that align with my tech stack
 * 💬  Ask me about I love reading novels of any kind ( Light novel, Web novel and even MTL ). I also like reading Manhwa/Manga and watching Anime.
